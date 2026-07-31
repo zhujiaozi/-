@@ -1,0 +1,22 @@
+{
+  "name": "cz-rules-engine",
+  "version": "2.0.0",
+  "description": "崇祯规则引擎 — MCP工具 + RAG向量库 + 角色卡系统，优化历史模拟器游戏AI逻辑",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test tests/*.test.js",
+    "test:tools": "node --test tests/tools.test.js",
+    "test:rag": "node --test tests/rag.test.js",
+    "test:integration": "node --test tests/integration.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "uuid": "^10.0.0",
+    "@xenova/transformers": "^2.17.0",
+    "yaml": "^2.6.0",
+    "zod": "^3.23.0"
+  }
+}

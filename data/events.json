@@ -1,0 +1,131 @@
+{
+  "normal": [
+    {
+      "category": "Emperor_Knowledge",
+      "count": 9,
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "category": "Emperor_Management",
+      "count": 9,
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "category": "Emperor_Military",
+      "count": 9,
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "category": "Emperor_Military1",
+      "count": 1,
+      "numbers": [
+        0
+      ]
+    },
+    {
+      "category": "Emperor_Politics",
+      "count": 8,
+      "numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "chains": [
+    "border",
+    "cannon",
+    "eunuch",
+    "exam",
+    "grain",
+    "grain_new",
+    "harem",
+    "horse",
+    "justice",
+    "mercs",
+    "omen",
+    "pirate",
+    "plague",
+    "powder",
+    "refugee",
+    "river",
+    "river3b",
+    "salt",
+    "silk",
+    "tax"
+  ],
+  "numbered": {
+    "count": 100,
+    "range": [
+      1,
+      100
+    ]
+  },
+  "welfare": {
+    "count": 24,
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "super": {
+    "count": 31
+  }
+}

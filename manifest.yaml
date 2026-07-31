@@ -1,0 +1,24 @@
+# 崇祯规则重构 — 创意工坊模组清单
+name: "崇祯规则重构"
+version: "1.1.0"
+description: >
+  BYOK 规则引擎：优化大臣角色逻辑（9 位名臣各有性格、关系与真实历史命运线，
+  处死魏忠贤等关键抉择触发专属剧情），强化廷议与诏书推演，
+  任命、国库等决策改动真实生效。不修改任何游戏文件。
+
+author: "CZ Workshop"
+game_version: "1.3.192"
+type: scenario
+scenario_id: "cz-rules-v1"
+
+# 规则引擎 (独立进程，需手动启动 start.bat)
+engine:
+  type: external
+  port: 3456
+  description: "在游戏 BYOK 设置中将 API 地址配置为 http://localhost:3456/v1"
+
+# 标签
+tags:
+  - gameplay
+  - overhaul
+  - rules-based

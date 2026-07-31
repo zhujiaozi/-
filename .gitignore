@@ -1,0 +1,22 @@
+# 敏感配置 — 绝不能上传
+.env
+cert/
+.mcp.json
+
+# 依赖（玩家首次运行 start.bat 时自动安装）
+node_modules/
+
+# 个人存档数据
+data/autosave.json
+data/autosave.json.bak
+data/autosave.json.tmp
+data/archives/
+
+# 发布产物（zip / workshop.vdf / cover 都是本地生成的）
+dist/
+
+# 开发工具（修改游戏本体文件的脚本，开源分发有风险）
+patch-simulator.js
+
+# 日志
+*.log

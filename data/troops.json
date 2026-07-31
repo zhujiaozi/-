@@ -1,0 +1,135 @@
+{
+  "count": 26,
+  "troops": {
+    "5001_Heavycavalry": {
+      "id": "5001_Heavycavalry",
+      "name": "重骑兵",
+      "category": "army"
+    },
+    "5002_lightcavalry": {
+      "id": "5002_lightcavalry",
+      "name": "轻骑兵",
+      "category": "army"
+    },
+    "5003_hussar": {
+      "id": "5003_hussar",
+      "name": "骠骑兵",
+      "category": "army"
+    },
+    "5004_pistolier": {
+      "id": "5004_pistolier",
+      "name": "手枪骑兵",
+      "category": "army"
+    },
+    "5005_cataphract": {
+      "id": "5005_cataphract",
+      "name": "铁甲骑兵",
+      "category": "army"
+    },
+    "5006_cuirassier": {
+      "id": "5006_cuirassier",
+      "name": "胸甲骑兵",
+      "category": "army"
+    },
+    "5007_dragoon": {
+      "id": "5007_dragoon",
+      "name": "龙骑兵",
+      "category": "army"
+    },
+    "5008_heavyinfantry": {
+      "id": "5008_heavyinfantry",
+      "name": "重步兵",
+      "category": "army"
+    },
+    "5009_lightinfantry": {
+      "id": "5009_lightinfantry",
+      "name": "轻步兵",
+      "category": "army"
+    },
+    "5010_pike": {
+      "id": "5010_pike",
+      "name": "长枪兵",
+      "category": "army"
+    },
+    "5011_musketeer": {
+      "id": "5011_musketeer",
+      "name": "火枪兵",
+      "category": "army"
+    },
+    "5012_line": {
+      "id": "5012_line",
+      "name": "线列步兵",
+      "category": "army"
+    },
+    "5013_jager": {
+      "id": "5013_jager",
+      "name": "猎兵",
+      "category": "army"
+    },
+    "5014_cannon": {
+      "id": "5014_cannon",
+      "name": "火炮",
+      "category": "army"
+    },
+    "5015_hongyi": {
+      "id": "5015_hongyi",
+      "name": "红衣大炮",
+      "category": "army"
+    },
+    "5016_fieldgun": {
+      "id": "5016_fieldgun",
+      "name": "野战炮",
+      "category": "army"
+    },
+    "5017_militia": {
+      "id": "5017_militia",
+      "name": "民兵",
+      "category": "army"
+    },
+    "B001_fu": {
+      "id": "B001_fu",
+      "name": "福船",
+      "category": "navy"
+    },
+    "B002_guang": {
+      "id": "B002_guang",
+      "name": "广船",
+      "category": "navy"
+    },
+    "B003_sha": {
+      "id": "B003_sha",
+      "name": "沙船",
+      "category": "navy"
+    },
+    "B004_wugong": {
+      "id": "B004_wugong",
+      "name": "蜈蚣船",
+      "category": "navy"
+    },
+    "B005_bao": {
+      "id": "B005_bao",
+      "name": "宝船",
+      "category": "navy"
+    },
+    "B006_caravel": {
+      "id": "B006_caravel",
+      "name": "卡拉维尔帆船",
+      "category": "navy"
+    },
+    "B007_carrack": {
+      "id": "B007_carrack",
+      "name": "卡拉克帆船",
+      "category": "navy"
+    },
+    "B008_galleon": {
+      "id": "B008_galleon",
+      "name": "盖伦帆船",
+      "category": "navy"
+    },
+    "B009_niao": {
+      "id": "B009_niao",
+      "name": "鸟船",
+      "category": "navy"
+    }
+  }
+}
